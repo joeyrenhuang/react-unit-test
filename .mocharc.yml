@@ -1,0 +1,4 @@
+require:
+  - '@babel/register'
+  - 'ignore-styles'
+  - './__test__/browser.js'
